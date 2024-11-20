@@ -85,11 +85,6 @@ id 값이 맞다면 그 해당 데이터를 화면에 보여주도록 처리하�
 ![image](https://github.com/user-attachments/assets/c5185b09-636b-4595-a568-bb08c124607b)
 받은 id값과 저장된 id값이 같은지 비교하교 그 같은 id값에 해당하는 data 들만 출력
 ![image](https://github.com/user-attachments/assets/fcfdd1d1-b748-4f99-a0c0-50ab685de8db)
-* * *
-# 프로젝트 시연
-![GIFMaker_me](https://github.com/user-attachments/assets/aeea678d-8a93-4b8b-a9d8-c94e06c87574)
-
-
 
 
 
