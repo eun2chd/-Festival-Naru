@@ -79,12 +79,12 @@ B 라는 축제에 ID 값은 2번<br/>
 이렇게 주고 해당 사용자가 축제를 클릭할때 쿼리스트링을 이용하여 id=1 이렇게 주소로 전달하게 되면 그값이 일치한지 검사하고<br>
 id 값이 맞다면 그 해당 데이터를 화면에 보여주도록 처리하였다.<br/>
 ![image](https://github.com/user-attachments/assets/943fbcb3-9fd7-4b5f-b3ee-79d175add906) <br>
-쿼리스트링을 이용하여 id값 전달
-![image](https://github.com/user-attachments/assets/d3169fc3-9203-47b0-a007-b237fa652b69)
-받은 id값
-![image](https://github.com/user-attachments/assets/c5185b09-636b-4595-a568-bb08c124607b)
-받은 id값과 저장된 id값이 같은지 비교하교 그 같은 id값에 해당하는 data 들만 출력
-![image](https://github.com/user-attachments/assets/fcfdd1d1-b748-4f99-a0c0-50ab685de8db)
+쿼리스트링을 이용하여 id값 전달<br>
+![image](https://github.com/user-attachments/assets/d3169fc3-9203-47b0-a007-b237fa652b69)<br>
+받은 id값<br>
+![image](https://github.com/user-attachments/assets/c5185b09-636b-4595-a568-bb08c124607b)<br>
+받은 id값과 저장된 id값이 같은지 비교하교 그 같은 id값에 해당하는 data 들만 출력<br>
+![image](https://github.com/user-attachments/assets/fcfdd1d1-b748-4f99-a0c0-50ab685de8db)<br>
 
 
 
