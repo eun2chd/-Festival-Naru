@@ -45,18 +45,18 @@ UI와 데이터를 통합적으로 관리하는 방법. <br/>
 * * *
 # 각 페이지별 소개
  ## 메인페이지
-메인페이지 메인화면에 각 지역에 대표하는 축제를 사용자가 볼 수 있도록 화면에 보여주도록 처리하였습니다.
+### 메인페이지 메인화면에 각 지역에 대표하는 축제를 사용자가 볼 수 있도록 화면에 보여주도록 처리하였습니다.
 ![image](https://github.com/user-attachments/assets/08be8b8b-283c-4634-b273-e1fb738e94e9)
 각 지역 위치별로 어떤 축제들을 볼 수 있는지 모아놓은 카테고리 입니다.
 ![image](https://github.com/user-attachments/assets/7486c5b4-5574-4d33-9133-665ebca8e986)
 + ## 전국 축제 카테고리 페이지
-사용자는 지역별로 원하는 축제들을 모아 볼 수 있는 페이지 입니다.
+### 사용자는 지역별로 원하는 축제들을 모아 볼 수 있는 페이지 입니다.
 ![image](https://github.com/user-attachments/assets/56a43d34-dd65-4d3f-bd59-7021c9db09b8)
 + ## 달력 페이지
-사용자가 해당 날짜에 어떤 축제들이 있는지 모아 볼 수 있는 페이지 입니다.
+### 사용자가 해당 날짜에 어떤 축제들이 있는지 모아 볼 수 있는 페이지 입니다.
 ![image](https://github.com/user-attachments/assets/d2f157b4-2cb6-4c1b-85bf-6f6527f1f9fc)
 + ## 상세페이지
-  해당 축제가 열리는 상세 정보를 확인할 수 있습니다.
+  ### 해당 축제가 열리는 상세 정보를 확인할 수 있습니다.
 ![image](https://github.com/user-attachments/assets/323687ce-ecac-456a-a27a-bebce69151a6)
 ![image](https://github.com/user-attachments/assets/c6851cac-c6fd-4453-8684-d4e137bc7a67)
 ![image](https://github.com/user-attachments/assets/7ff76def-d026-4987-89c6-6e21d6a9f9c5)
